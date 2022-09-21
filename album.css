@@ -1,0 +1,16 @@
+img{
+  height:300px;
+  width:30%;
+  margin: auto;
+  float: left;
+  margin: 1.66%;
+}
+p{
+  color: purple;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+  font-style: oblique;
+  border-bottom: 2px solid gray;
+  padding-bottom: 20px;
+}
